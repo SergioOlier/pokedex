@@ -1,36 +1,59 @@
-# Pokédex Angular
+# Explora la Nube con Azure for Students
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+**Guía paso a paso para crear tu cuenta gratuita de Azure for Students**
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
+Esta es la documentación oficial del proceso que seguí para crear mi cuenta **Azure for Students** (crédito de 100 USD sin tarjeta de crédito).  
+La guía está basada en el documento “Explora la Nube con Azure for Students” del **Prof. Ronald Cuello**.
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
+---
 
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
+## Requisitos
 
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
+Necesitarás:
+- Un **correo electrónico educativo válido** (ej. `tucorreo@universidad.edu.co`).
+- Verificación de tu **estatus de estudiante**.
+- Un **número de teléfono** para la verificación de la cuenta.
 
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
+---
 
-## Requisitos mínimos
+## Pasos para crear la cuenta
 
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
+### Paso 1 – Ir al Portal de Azure for Students
+1. Abre tu navegador.
+2. Ve a la página oficial: [Azure for Students](https://azure.microsoft.com/es-es/free/students/)
 
-## Ambiente de pruebas
+### Paso 2 – Comenzar el Registro
+1. Haz clic en el botón verde **“Empezar gratis”**.
 
-Ejecutar en la raíz del proyecto:
+### Paso 3 – Iniciar Sesión
+1. Inicia sesión con tu **correo electrónico educativo**.
+2. Si aparece la opción, selecciona **“Cuenta profesional o educativa”**.
+3. Ingresa tu contraseña y haz clic en **“Iniciar sesión”**.
 
-```
-npm start
-```
+### Paso 4 – Verificar Estatus de Estudiante
+1. Completa el formulario con tus datos académicos.
+2. Azure verificará automáticamente tu estatus de estudiante.
+3. Cuando termine, verás el mensaje **“Verification complete!”** y el botón **“Continue your action”**.
 
-## Referencias
+### Paso 5 – Verificar la Cuenta con Teléfono
+1. Ingresa tu número de teléfono.
+2. Recibirás un código de verificación por SMS.
+3. Ingresa el código para confirmar la cuenta.
 
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+### Paso 6 – ¡Listo!
+Una vez finalizado verás la página de **Microsoft Azure** con la sección **“Education | Overview”** y tu crédito disponible.
+
+¡Felicidades! Tu cuenta Azure for Students ya está activa con **100 USD de crédito**.
+
+---
+
+## Notas importantes
+
+- La cuenta es **gratuita** mientras tengas crédito disponible.
+- No se requiere tarjeta de crédito en ningún momento.
+- Una vez que se agote el crédito de 100 USD, los servicios se detienen automáticamente.
+- Puedes renovar la cuenta cada año mientras sigas siendo estudiante.
+
+---
+
+*Guía elaborada a partir del documento del Prof. Ronald Cuello*  
